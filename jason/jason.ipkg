@@ -1,0 +1,9 @@
+package jason
+
+sourceloc  = git://git@github.com:ziman/lightyear.git
+bugtracker = http://www.github.com/ziman/lightyear/issues
+
+pkgs = effects
+
+modules = System.Directory
+        , Jason.Main
